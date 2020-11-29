@@ -22,3 +22,5 @@ Introduz um nível de intermediação para acessar um objeto. Essas intermediaç
 adicionais possuem diversos usos tais como: esconder o fato de que um objeto reside em um espaço
 de endereçamento diferente, criação de objetos sob demanda e permite que sejam realizadas tarefas
 adicionais quando um objeto é acessado.
+
+###link do video https://drive.google.com/file/d/17a16epTCwhlCKij5TXyXeoIMq71vP3Y6/view?usp=sharing
